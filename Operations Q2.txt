@@ -1,0 +1,13 @@
+ Q2--> Categorization of operators
+ logical operators
+ 1]logical and [&&]
+ 2]logical or  [||]
+ 3]logical not [!true]-->  false
+                [!false]-->  true
+
+
+
+ Unary operators
+ 1] delete :- Delete operator delete property from an object
+ 2] typeof :- Typeof operator determine the type og given object
+ 3] unary :- This operator converts operand to number and negates it

@@ -1,0 +1,20 @@
+ -javascript comment can be used to explain javascript code
+ and make it more readable 
+ -Also it prevent execution when testing other code
+
+
+ Single line comment--> //
+ Any text between and end of the line will be ignored 
+ by javascript and not be executed.
+
+ e.g:- // Below code prints plain text
+        let x = 5;
+ 
+
+ Multi line comment--> /* */
+ Multi line comments start with /* and end with */
+ Any text in between this symbol will ignored by javascript.
+ also used comment block to explain the code
+
+ e.g:- /* Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed aliquid cupiditate sapiente ipsum quibusdamrecusandae fugiat a mollitia. Illo ipsam iure harum tempore reiciendis possimus. */
+

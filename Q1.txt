@@ -1,0 +1,8 @@
+->Javascript is an genereal purpose scripting language 
+which is used to create an web page.
+->It is based on standard ecmascript.
+mainly it is an dynamically typed language we can make changes while running the code in Javascript
+.It is an general scripting language.
+->There are inbuilt components in browsers that contains javascript 
+It is an case sensitive language
+->It can be used for both client-side and server-side development

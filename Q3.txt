@@ -1,0 +1,44 @@
+***** Primitive Data types *****
+Primitive datatype is known as inbuilt or predefined
+datatypes
+
+1-> Number:-
+    It used to hold the value in decimal format
+    e.g: let a = 20;
+         console.log("Value of a is" a);
+
+    output:- Value of a is 20
+
+
+2-> String:-
+   This datatype is surrounded by single or doublequoted
+   it also known to be sequence of characters
+   e.g:- let name = "neo";
+         console.log("Name of first application is " + name)
+
+   output:- Name of first application is application1
+
+3-> Boolean:-
+    In this datatype there can be two values only 
+    either true / false
+    e.g:- console.log("The given operation is" + bool)
+
+    output:- The given operation is true
+
+4-> Symbol:- 
+  This datatype is used to create unique objects 
+  which will be created using Symbol constructor
+
+  e.g:- let name = Symbol("operational")
+        console.log(typeof(name));
+        console.log(name)
+
+   output:- Symbol(operational)
+
+
+5-> Null:-
+This can hold one posssible value that is Null
+e.g:- let a = null;
+console.log("The value of a is" + a);
+
+output:- Value of a is null

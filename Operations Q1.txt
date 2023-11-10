@@ -1,0 +1,5 @@
+
+Q1--> Role of operations in javascript
+     Javascript operators operate the operands, these are symbols used to manipulate certain value
+     in javascript operators is used to compare the values and to perform arithmetic operations
+     To solve various mathematical queries we use operations in javascript.therfore it is essential to use operatioms in js

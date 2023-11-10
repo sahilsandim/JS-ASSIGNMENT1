@@ -1,0 +1,19 @@
+ Q3-->
+ 1] Unary operator 
+  -These operators require one operand for operation 
+   More than one can be result into an syntax error
+ e.g- typeof operator
+ typeof "hello how are you"
+ this operator requires only one operand
+ This operator returns the data type of a value
+
+ 2] Binary operator
+ These operators require two operands for the operation
+ If we dont provide two operands it will throw an error
+ e.g 10 + 20
+
+ 3] Ternary operator
+ These operators require three operands for the operation
+ There is one operation that falls under this category that is
+ ternary operator
+ The condition can either have truthy or falsy value

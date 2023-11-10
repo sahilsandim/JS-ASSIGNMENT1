@@ -1,0 +1,12 @@
+ Q4-->
+ Operators precedence determine how operators are parsed 
+ to each other. Operators of high precedence becomees the 
+ operands of lower precedence.
+ console.log(1 + 2 * 3) // 1 + 6
+ Output:-7
+ console.log(4 + 5 * 6) // 4 + 30
+ Output:-34
+
+ and associativity determine in which the operators of same precedence 
+ are parsed
+

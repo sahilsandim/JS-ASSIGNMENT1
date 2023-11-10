@@ -1,0 +1,13 @@
+Consistent formatting of the code improves the readibility of the code
+by making easier to parse and understand.
+proper spacing and clear structure making easier
+to identify the blocks of code
+
+e.g:- let x = "sahil";
+      let y = 40;
+      console.log(x+y)
+      console.log(typeof(x+y))
+      const item={
+        id:1,
+        name:application,
+      }

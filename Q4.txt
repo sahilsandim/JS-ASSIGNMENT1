@@ -1,0 +1,24 @@
+Javascript variable are building blocks of Any
+programming language . variable can be used to store 
+reusable values
+The value is allocated by assigned operator "="
+****Rules to declare javscript variable****
+-These are case sensitive
+-Variable name cannot be reserved keyword
+-can only begin with "-" or "$"
+
+
+let:-
+1--> It is block scoped element
+2--> Cannot be redeclared 
+3--> Not supported in old browsers
+
+
+
+    let a = 44;
+    let b = 60;
+    console.log(a)
+    console.log(b)
+    
+    output:- 44
+             60
